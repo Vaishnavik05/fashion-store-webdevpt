@@ -5,14 +5,6 @@ This project simulates an online shopping experience where users can browse prod
 
 ---
 
-## Demo
-![Demo](fashionstore-gif.mp4)
-
-[▶️ Watch Full Demo Video](fashion-store.mp4)
-
-
----
-
 ## Features
 
 - **Homepage** showcasing featured fashion items with modern UI.

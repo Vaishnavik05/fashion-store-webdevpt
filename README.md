@@ -8,6 +8,7 @@ This project simulates an online shopping experience where users can browse prod
   <source src="fashionstore-gif.mp4" type="video/mp4">
 </video>
 ---
+
 ## Features
 
 - **Homepage** showcasing featured fashion items with modern UI.

@@ -8,7 +8,7 @@ This project simulates an online shopping experience where users can browse prod
 ## Demo
 ![Demo](fashionstore-gif.mp4)
 
-[▶️ Watch Full Demo Video](fashion%20store.mp4)
+[▶️ Watch Full Demo Video](fashion-store.mp4)
 
 
 ---

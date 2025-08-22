@@ -4,7 +4,10 @@ An interactive fashion e-commerce storefront built using **HTML, CSS, JavaScript
 This project simulates an online shopping experience where users can browse products, view details, and interact with a stylish responsive UI.
 
 ---
-
+<video autoplay loop muted width="600">
+  <source src="fashionstore-gif.mp4" type="video/mp4">
+</video>
+---
 ## Features
 
 - **Homepage** showcasing featured fashion items with modern UI.

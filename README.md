@@ -7,7 +7,7 @@ This project simulates an online shopping experience where users can browse prod
 
 ## Demo
 
-<video src="fashion store.mp4" controls autoplay loop muted playsinline width="800"></video>
+<video src="fashion-store.mp4" controls autoplay loop muted playsinline width="800"></video>
 
 ---
 
